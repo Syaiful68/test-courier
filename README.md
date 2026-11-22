@@ -9,6 +9,7 @@
 # Installation
 
 - Download file ini melalui github saya dan lakukan extract file
+- copy paste .env.example dan ubah nama file baru menjadi .env
 - jalankan file ini menggunakan menjalankan perintah 'php artisan serve'
 - kamu dapat mengakses website ini menggunakan postman dengan memasukkan link url yang berjalan di terminal
 
